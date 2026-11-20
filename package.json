@@ -1,0 +1,32 @@
+{
+  "name": "saas-procedural-gradients",
+  "version": "1.0.0",
+  "description": "Universal AI Agent Skill for rendering 13 zero-slop procedural animated gradients & optical shaders in Remotion, HyperFrames & HTML5 Canvas",
+  "main": "./scripts/gradient_renderer.js",
+  "module": "./scripts/gradient_renderer.js",
+  "type": "module",
+  "exports": {
+    ".": "./scripts/gradient_renderer.js",
+    "./react": "./components/ProceduralGradient.tsx"
+  },
+  "keywords": [
+    "ai-agent-skill",
+    "antigravity-skill",
+    "claude-skill",
+    "cursor-skill",
+    "remotion",
+    "hyperframes",
+    "procedural-gradient",
+    "motion-graphics",
+    "fluted-glass",
+    "film-grain",
+    "zero-slop",
+    "canvas-shaders"
+  ],
+  "author": "Fazzbro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fazzbro/saas-procedural-gradients.git"
+  }
+}
